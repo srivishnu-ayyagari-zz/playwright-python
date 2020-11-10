@@ -1,0 +1,5 @@
+--- 
+tasks: 
+  - 
+    command: "python -m playwright install"
+    init: "pip install -r requirements.txt"
